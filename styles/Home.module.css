@@ -140,6 +140,7 @@
   margin: 0 24px;
   list-style: none;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .myImg {
@@ -149,4 +150,8 @@
 
 .imgWrap {
   padding: 30px 0px;
+}
+
+.blogItem {
+  cursor: pointer;
 }
