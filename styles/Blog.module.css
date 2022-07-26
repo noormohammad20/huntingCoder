@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.container {
+    padding: 0 25rem;
+}
+
 .blogItem h3 {
     cursor: pointer;
 }
